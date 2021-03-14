@@ -8,3 +8,9 @@
 ## PROPOSED SOLUTION :
   
   # ASHA - THE WATCH
+      1. Provided with real time data personalisation
+      2. SoS facility
+      3. Location Tracking
+      4. Health Monitoring
+
+
