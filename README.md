@@ -8,9 +8,6 @@
 ## PROPOSED SOLUTION :
    ![FINAL_PPT(1)](https://user-images.githubusercontent.com/59553356/111598586-6370b480-87f5-11eb-8795-bdf86ce598ea.jpg)
    
-## OUR WATCH :
-   ![0e4539b343514932895ab9d87f3e99a5(3)](https://user-images.githubusercontent.com/59553356/111761500-f842e300-88c5-11eb-8583-4a624aa6804e.png)
-
   
   ## ASHA - THE WATCH
       1. Provided with real time data personalisation
