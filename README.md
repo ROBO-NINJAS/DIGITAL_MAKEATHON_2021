@@ -18,7 +18,7 @@
       3. Location Tracking
       4. Health Monitoring
 
-   ![FINAL_PPT](https://user-images.githubusercontent.com/59553356/111598690-7be0cf00-87f5-11eb-963e-b179342c7bc3.jpg)
+   ![watch_des](https://user-images.githubusercontent.com/80196246/113094334-16d2a380-920f-11eb-831b-7cbb8974edd8.JPG)
 
 
 
